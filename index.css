@@ -105,10 +105,6 @@ body{
 
 .what__title{
     margin: 0px 0px 33px 0px;
-
-}
-.what__text{
-    
 }
 .what__text p{
     font-size:16px ;
@@ -116,8 +112,6 @@ body{
     margin: 0px 0px 25px 0px;
 
 }
-.colums{}
-
 .colums__title{
     text-align: center;
     margin: 0px 0px 30px 0px;
